@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "SarchuraoSmp-cKAt.aternos.me:52476
+    "port": 52476
+    "version": "1.19.4
   },
   "position": {
     "enabled": true,
